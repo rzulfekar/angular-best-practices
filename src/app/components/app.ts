@@ -22,6 +22,4 @@ import { Component } from "@angular/core";
     </div>
   `,
 })
-export class AppComponent {
-  // test comment
-}
+export class AppComponent {}
